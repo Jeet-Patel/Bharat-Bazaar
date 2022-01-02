@@ -1,12 +1,12 @@
 # BharatBazaar E-Commerce Website
 
-## Funtionalities
+## Functionalities
 * User Authentication for surfing
 * Searching and sorting
 * Buying and Selling of Products
-* Products sorted by categories and different filters products
+* Products sorted by categories and different filters
 * Creating Wishlist and Carts for a Purchase
-* Customer Review panel or Experience Panel.
+* Customer Review panel or Experience Panel
 * Multiple payment gateways
 * Ability to scale and add new features
 * Chatbot for user support
@@ -75,8 +75,8 @@ $ npm start
 
 ## EE390-DSA Group Project
 #### Members : 
+* Jeet Patel 180102087
 * Rishabh Sharma 180102058
 * Samaksh Tak 180102063
-* Jeet Patel 180102087
 * Shishir Mishra 180108054
 * Harsh Govil 180108050
